@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, sou Duilio 👋
 
-<!--
-**dudumelo98/dudumelo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Cientista de Dados | Aprendizado de máquina | Análise de Dados | Inteligência Artificial</p>
 
-Here are some ideas to get you started:
+- **Linguagens**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+- **Machine Learning**: ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+- **Visualização de Dados**: ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C3E50?style=flat-square&logo=matplotlib&logoColor=white)
+- **Outras Ferramentas**: ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Estatísticas do GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dudumelo98&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudumelo98&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</div>
+
+<br clear="both"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudumelo98/dudumelo98/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudumelo98/dudumelo98/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dudumelo98/dudumelo98/output/pacman-contribution-graph.svg">
+</picture>
