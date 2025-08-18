@@ -18,7 +18,10 @@ Estatísticas do GitHub
 <br clear="both"/>
 <picture>
 
-< picture > < source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/[dudumelo98]/[dudumelo98]/output/pacman-contribution-graph-dark.svg" > < source media = "(prefers-color-scheme: light)" srcset = "https://raw.githubusercontent.com/[dudumelo98]/[dudumelo98]/output/pacman-contribution-graph.svg" > < img alt = "gráfico de contribuição do pacman" src = "https://raw.githubusercontent.com/[dudumelo98]/[dudumelo98]/output/pacman-contribution-graph.svg" > </ picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
     
     
     
