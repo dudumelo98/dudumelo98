@@ -23,38 +23,26 @@ Portfólio de 30 projetos de ciência de dados, ordenado por impacto de negócio
 | 8 | [Fraude em Licitações Públicas](https://github.com/dudumelo98/deteccao-fraude-licitacoes) | Isolation Forest + grafos |
 | 9 | [ESG Automatizado](https://github.com/dudumelo98/relatorio-esg-automatizado) | dado real World Bank, 246 países |
 | 10 | [Segmentação RFM](https://github.com/dudumelo98/analise_varejo_online_RFM) | K-Means + DBSCAN |
-
-<details>
-<summary><b>Avançado</b> (10 projetos)</summary>
-
-- [Otimização de Rotas Logísticas](https://github.com/dudumelo98/Otimiza-o-de-Rotas-Log-sticas-)
-- [Qualidade do Ar e Saúde Pública](https://github.com/dudumelo98/qualidade-ar-saude-publica) (dado real OMS)
-- [Motor de Recomendação E-commerce](https://github.com/dudumelo98/recomendacao-ecommerce) (dado real UCI)
-- [Eficiência Energética Industrial](https://github.com/dudumelo98/eficiencia-energetica-industrial) (dado real UCI)
-- [Precificação Dinâmica](https://github.com/dudumelo98/precificacao-dinamica) (elasticidade + Q-learning)
-- [Qualidade de Produção em Tempo Real](https://github.com/dudumelo98/qualidade-producao-tempo-real) (SPC)
-- [Planejamento Urbano Baseado em Dados](https://github.com/dudumelo98/planejamento-urbano-dados)
-- [Operações Aeroportuárias](https://github.com/dudumelo98/operacoes-aeroportuarias)
-- [Inteligência Competitiva](https://github.com/dudumelo98/inteligencia-competitiva) (web scraping + NLP)
-- [Eficiência e Risco em Petróleo e Gás](https://github.com/dudumelo98/eficiencia-petroleo-gas)
-
-</details>
-
-<details>
-<summary><b>Intermediário</b> (10 projetos)</summary>
-
-- [Dashboard Financeiro para PMEs](https://github.com/dudumelo98/dashboard-financeiro-pmes)
-- [Predição de Inadimplência Imobiliária](https://github.com/dudumelo98/inadimplencia-imobiliaria)
-- [Gestão Inteligente de Projetos](https://github.com/dudumelo98/gestao-inteligente-projetos) (Monte Carlo)
-- [Score de Eficiência para Fornecedores](https://github.com/dudumelo98/score-eficiencia-fornecedores) (AHP + TOPSIS)
-- [Predição de Acidentes de Trabalho](https://github.com/dudumelo98/acidentes-construcao-civil)
-- [Otimização de Campanhas de Marketing](https://github.com/dudumelo98/otimizacao-campanhas-marketing) (Shapley Value)
-- [Risco em Processos Jurídicos](https://github.com/dudumelo98/risco-processos-juridicos)
-- [Otimização de Escalas de Pessoal](https://github.com/dudumelo98/otimizacao-escalas-pessoal) (programação inteira)
-- [Eficiência Operacional e OEE Industrial](https://github.com/dudumelo98/eficiencia-oee-industrial)
-- [Desempenho Preditivo em Gestão Pública](https://github.com/dudumelo98/desempenho-gestao-publica) (DEA)
-
-</details>
+| 11 | [Otimização de Rotas Logísticas](https://github.com/dudumelo98/Otimiza-o-de-Rotas-Log-sticas-) | OR-Tools, TSP/VRP |
+| 12 | [Qualidade do Ar e Saúde Pública](https://github.com/dudumelo98/qualidade-ar-saude-publica) | dado real OMS |
+| 13 | [Motor de Recomendação E-commerce](https://github.com/dudumelo98/recomendacao-ecommerce) | dado real UCI, SVD + content-based |
+| 14 | [Eficiência Energética Industrial](https://github.com/dudumelo98/eficiencia-energetica-industrial) | dado real UCI, 2M leituras |
+| 15 | [Precificação Dinâmica](https://github.com/dudumelo98/precificacao-dinamica) | elasticidade + Q-learning |
+| 16 | [Qualidade de Produção em Tempo Real](https://github.com/dudumelo98/qualidade-producao-tempo-real) | SPC + Random Forest |
+| 17 | [Planejamento Urbano Baseado em Dados](https://github.com/dudumelo98/planejamento-urbano-dados) | GeoPandas + Folium |
+| 18 | [Operações Aeroportuárias](https://github.com/dudumelo98/operacoes-aeroportuarias) | previsão de atraso, AUC 0,68 |
+| 19 | [Inteligência Competitiva](https://github.com/dudumelo98/inteligencia-competitiva) | web scraping + NLP |
+| 20 | [Eficiência e Risco em Petróleo e Gás](https://github.com/dudumelo98/eficiencia-petroleo-gas) | manutenção preditiva |
+| 21 | [Dashboard Financeiro para PMEs](https://github.com/dudumelo98/dashboard-financeiro-pmes) | AUC 0,90, R2 0,97 |
+| 22 | [Predição de Inadimplência Imobiliária](https://github.com/dudumelo98/inadimplencia-imobiliaria) | Kaplan-Meier |
+| 23 | [Gestão Inteligente de Projetos](https://github.com/dudumelo98/gestao-inteligente-projetos) | Monte Carlo |
+| 24 | [Score de Eficiência para Fornecedores](https://github.com/dudumelo98/score-eficiencia-fornecedores) | AHP + TOPSIS |
+| 25 | [Predição de Acidentes de Trabalho](https://github.com/dudumelo98/acidentes-construcao-civil) | AUC 0,73 |
+| 26 | [Otimização de Campanhas de Marketing](https://github.com/dudumelo98/otimizacao-campanhas-marketing) | Shapley Value |
+| 27 | [Risco em Processos Jurídicos](https://github.com/dudumelo98/risco-processos-juridicos) | AUC 0,63 |
+| 28 | [Otimização de Escalas de Pessoal](https://github.com/dudumelo98/otimizacao-escalas-pessoal) | programação inteira |
+| 29 | [Eficiência Operacional e OEE Industrial](https://github.com/dudumelo98/eficiencia-oee-industrial) | decomposição OEE |
+| 30 | [Desempenho Preditivo em Gestão Pública](https://github.com/dudumelo98/desempenho-gestao-publica) | DEA |
 
 Estatísticas do GitHub
 <div align="center">
